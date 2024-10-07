@@ -1,0 +1,27 @@
+h1,h2,h3
+{
+ text-align: center;
+}
+body
+{
+    background-color: burlywood;
+}
+img
+{
+    height: 300px;
+}
+table
+{
+    background-color:chocolate;
+    color: white;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    padding: 30px;
+}
+th:hover {
+    background-color:crimson;
+}
+td:hover {
+    background-color: blueviolet;
+}
